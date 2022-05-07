@@ -1,5 +1,5 @@
 # reactResponsiveNavBar
-Top header for the react page.Highly customizable
+TopBar for the react page.Highly customizable
 
 Steps to run the project -->
 
